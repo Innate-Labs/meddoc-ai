@@ -47,7 +47,7 @@ MedDoc AI 让医生从繁琐文书工作中解放出来，专注于患者诊疗�
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="MedDoc AI 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="MedDoc AI 首页" width="100%" />
   <br/>
   <sub><b>AI 驱动的医疗文书智能化管理平台</b></sub>
 </div>

@@ -42,6 +42,18 @@ MedDoc AI 是一款专为临床医生打造的 AI 驱动医疗文书管理平台
 
 MedDoc AI 让医生从繁琐文书工作中解放出来，专注于患者诊疗，真正实现"**AI 赋能，智慧医疗**"。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="MedDoc AI 首页" width="100%" />
+  <br/>
+  <sub><b>AI 驱动的医疗文书智能化管理平台</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
